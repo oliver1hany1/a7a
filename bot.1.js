@@ -579,7 +579,7 @@ client.on('message', message => {
       .addField('📕| DND',`${message.guild.members.filter(m=>m.presence.status == 'dnd').size}`)
       .addField('📙| Idle',`${message.guild.members.filter(m=>m.presence.status == 'idle').size}`)
       .addField('📓| Offline',`${message.guild.members.filter(m=>m.presence.status == 'offline').size}`)
-      .addField('➡| Server Members',`${message.guild.memberCount}`)
+      .addField('➡| Server Members',`${message.guild.memberCount}`);
       message.channel.send(IzRo);
 	
     });
