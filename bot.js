@@ -118,7 +118,7 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~The King Bot~~__ By: Peery#0609
+__~~SUPER_HEROBOT~~__
 ╱╭╮╭╮╱╱╱╱╭╮╭━╮╱╱╱╱╱╱╭━━╮╱╱╱╭╮
 ╭╯╰┫┃╱╱╱╱┃┃┃╭╯╱╱╱╱╱╱┃╭╮┃╱╱╭╯╰╮
 ╰╮╭┫╰━┳━━┫╰╯╯╭┳━╮╭━━┫╰╯╰┳━┻╮╭╯
